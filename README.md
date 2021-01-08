@@ -1,5 +1,5 @@
 # Predicting and Visualizing Airbnb prices in NYC using Python
-I used Laura Lewis's Project as a baseline (https://towardsdatascience.com/predicting-airbnb-prices-with-machine-learning-and-deep-learning-f46d44afb8a6). The difference in my project is that focused on airbnb Listings in NYC. I also used NPL libarires to do a sentiment analyis to see how positive reviews were for each listing as well as bringing outside data to try to increase my explained variance score. I  obtained airbnb listings prior to COVID (September 2020) since COVID prices would prove to be a huge outlier.
+I used Laura Lewis's Project as a baseline (https://towardsdatascience.com/predicting-airbnb-prices-with-machine-learning-and-deep-learning-f46d44afb8a6). The difference in my project is that focused on airbnb Listings in NYC. I also used NPL libraries to do a sentiment analyis to see how positive reviews were for each listing as well as bringing outside data to try to increase my explained variance score. I  obtained airbnb listings prior to COVID (September 2020) since COVID prices would prove to be a huge outlier.
 
 My project is split to 5 different notebooks:
 1) gettingZipcodes.ipynb , is where I attempt to get the zipcode for each listing using their longitude and latitude coordinates.
