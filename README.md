@@ -3,7 +3,7 @@ I used Laura Lewis's Project as a baseline (https://towardsdatascience.com/predi
 
 My project is split to 5 different notebooks:
 1) gettingZipcodes.ipynb , is where I attempt to get the zipcode for each listing using their longitude and latitude coordinates.
-2) Data_Cleansing.ipynb , is where I do data wrangling and cleaning as well as obtaing the average polarity score for each listings
+2) Data_Cleansing.ipynb , is where I do data wrangling and cleaning as well as obtaining the average polarity score for each listings
 3) restaurnat_data_cleansing, is where I obtain a dataset that has number of restaurants in each zipcode of nyc which I later use to merge 
 4) Visualization/Modeling.ipynb , is where I do  visualizations and modeling to predict the prices.
 5) subwayData.ipynb , is where I obtained a dataset that has the number of subways for each listing in a 1 mile radius.
